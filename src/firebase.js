@@ -2,7 +2,7 @@ import firebase from 'firebase';
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDC6JFna26m2EHl8zc0m8xb6S2Mvcx7xxc",
+    apiKey: "AIzaSyAnJqY84DUy6zmS6BoGrUd8WBHwd86oj58",
     authDomain: "d2mmall-1217c.firebaseapp.com",
     databaseURL: "https://d2mmall-1217c.firebaseio.com",
     projectId: "d2mmall-1217c",
